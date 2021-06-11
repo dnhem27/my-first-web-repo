@@ -360,12 +360,10 @@ tmp/
 app/**/*.js
 app/**/*.js.map
 # dependencies
-node_modules/
 bower_components/
 # IDEs and editors
 .idea/
 # misc
-.sass-cache/
 connect.lock/
 coverage/
 libpeerconnection.log/
@@ -380,7 +378,6 @@ e2e/*.map
 ### Eclipse ###
 .metadata
 bin/
-*.tmp
 *.bak
 *.swp
 *~.nib
@@ -496,7 +493,6 @@ modules.xml
 # Compiled class file
 *.class
 # Log file
-*.log
 # BlueJ files
 *.ctxt
 # Mobile Tools for Java (J2ME)
@@ -647,7 +643,6 @@ Session.vim
 Sessionx.vim
 # Temporary
 .netrwhist
-*~
 # Auto-generated tag files
 tags
 # Persistent undo
